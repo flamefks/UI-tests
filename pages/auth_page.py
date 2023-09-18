@@ -21,4 +21,7 @@ class AuthPage(BasePage):
         self.forced_wait(timeout)
         return self.get_el_text(AuthPageLocators.allert_incorrect_email)
 
-
+    def is_correct(self):
+        pass
+    def is_uncorrect(self):
+        pass
