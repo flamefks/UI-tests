@@ -5,4 +5,3 @@ class ConfigData:
     local_m = "sdsd"
     local_D = 'sdsd'
     local_b = 'sdsdqdq'
-    g = "dsd"
