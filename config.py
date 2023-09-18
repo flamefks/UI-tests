@@ -3,3 +3,4 @@ class ConfigData:
     base_email = 'test@protei.ru'
     base_passw = 'test'
     local_m = "sdsd"
+    local_D = 'sdsd'
