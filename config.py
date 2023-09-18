@@ -4,4 +4,3 @@ class ConfigData:
     base_passw = 'test'
     local_m = "sdsd"
     local_D = 'sdsd'
-    local_b = 'sdsdqdq'
